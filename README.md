@@ -1,5 +1,5 @@
 # DiggersDarkness
-A mod that lets you go underground
+(Cancelled) A mod that lets you go underground
 
 (WIP)
 --------------------------------------
